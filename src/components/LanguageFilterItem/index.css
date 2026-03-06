@@ -1,0 +1,21 @@
+.btn-list {
+  list-style: none;
+  outline: none;
+}
+.list-btn {
+  background-color: transparent;
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+  font-family: 'Roboto';
+  color: #0f172a;
+  outline: none;
+  cursor: pointer;
+}
+.active-btn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
